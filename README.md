@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.imgur.com/LYHmh6x.jpeg" style="width: 250px; height: 250px;" /></p>
 <h1 align="center">Hi 👋, I'm solisdonoso19</h1>
 <h3 align="center">I am a student of computer science at the Technological University of Panama. I like web development and am on a journey to become a MERN Stack developer. Based in Panama 🇵🇦</h3>
 
